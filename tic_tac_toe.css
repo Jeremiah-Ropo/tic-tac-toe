@@ -1,0 +1,64 @@
+/* CSS code  */
+/* Heading  */
+h1{
+    color: rgb(132, 0, 255);
+    font-size: 45px;
+    font-style: italic;
+}
+
+/* 3*3 grid  */
+#b1, #b2, #b3, #b4, #b5,
+#b6, #b7, #b8, #b9{
+    width: 80px;
+    height: 52px;
+    margin: auto;
+    border: 1px rgb(129, 128, 128) grey;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+/* Reset Button  */
+#but {
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid dodgerblue;
+    margin: auto;
+    border-radius: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Player turn space  */
+#print {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: dodgerblue;
+    font-size: 20px;
+}
+
+/* Main container  */
+#main {
+    text-align: center;
+    background-color: orchid;
+}
+
+
+/* Game instruction text  */
+#ins{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(131, 255, 30);
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
